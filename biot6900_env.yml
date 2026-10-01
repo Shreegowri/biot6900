@@ -1,0 +1,15 @@
+name: biot6900
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - jupyter
+  - ipykernel
+  - nbconvert
+  - pip:
+      - biopython==1.88
+      - requests==2.34.2
