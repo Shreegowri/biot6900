@@ -15,6 +15,7 @@ Grader should theoretically be able to do:
 - Module 1: Computational Environment Setup \& Tool Ecosystem
 
 ########################### START OF PART I ###########################
+
 I selected pancreatic ductal adenocarcinoma (PDAC) because it is an aggressive cancer with substantial unmet need.
 I used processed, publicly downloadable CPTAC-PDAC matrices from LinkedOmics (https://linkedomics.org/data_download/CPTAC-PDAC/). So, it is OPEN data.
 
