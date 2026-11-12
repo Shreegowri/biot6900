@@ -47,5 +47,8 @@ I used processed, publicly downloadable CPTAC-PDAC matrices from LinkedOmics (ht
      - "data.zip" - uploaded to canvas - used the files kept inside data folder as input for the module 7 excercise
      - "results.zip" - exported csv files with nodes, edges, relationship, centrality score etc., are kept in this folder and uplaoded to canvas
 - Module 8:
-
+- Module 9: Clinical Data Analysis & Natural Language Processing
+  - "module9_part3_assignment.ipynb" : completed notebook with results and my comments
+       - The notebook uses numpy, pandas, scikit-learn, and matplotlib, plus the standard library. It needs no downloaded data or clinical NLP package.
+- Module 10:
 ########################### END OF PART II ###########################
